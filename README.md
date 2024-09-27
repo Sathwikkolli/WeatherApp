@@ -1,0 +1,2 @@
+# WeatherApp
+ This weather application allows users to input a city name and retrieve real-time weather data, including temperature, humidity, and weather conditions. Built with React, it leverages the WeatherAPI for data fetching and features a responsive design with an appealing UI. Users can also view a corresponding weather image based on current conditions. The app showcases skills in API integration, state management, and dynamic styling, making it a great example of a practical web development project.
